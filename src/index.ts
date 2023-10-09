@@ -1,0 +1,1 @@
+export { execPromise } from "./exec";
